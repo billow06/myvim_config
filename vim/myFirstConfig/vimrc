@@ -164,7 +164,7 @@ set statusline=%<%f\ %h%m%r%=%k[%{(&fenc==\"\")?&enc:&fenc}%{(&bomb?\",BOM\":\"\
 set laststatus=2
 
 set number                    "显示行号：
-set nowrap                    " 取消换行。
+" set nowrap                    " 取消换行。
 
 set showmatch                 "括号配对情况
 " How many tenths of a second to blink when matching brackets
